@@ -1,7 +1,4 @@
-def foo() -> int:
-    a: int = 4
-    b: int = 8
-    return a + b
-
-result:
-foo()
+a = 761
+b = 793
+c = b/a*100-100
+print(c)
